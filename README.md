@@ -4,7 +4,7 @@ Hackintosh solution for the Dell Latitude e4630/e6430s
 
 EFI Configuration and driver.
 ```sh
-1: enable EFI Drive (you )
+1: enable EFI Drive (you can you any program like Clover Configuration ... )
 2: cd /Volumns/EFI
 3: git clone repo and extract file to /Volumns/EFI
 ```
